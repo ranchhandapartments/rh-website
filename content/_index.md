@@ -7,7 +7,8 @@ menu:
 # 1. To ensure Netlify triggers a build on our exampleSite instance, we need to change a file in the exampleSite directory.
 theme_version: '2.8.2'
 cascade:
-  featured_image: '/images/outsideView.jpg'
+  # featured_image: '/images/outsideView.jpg'
+  featured_image: '/images/Ranch-Hand-Brand-Icon.jpg'
 ---
 # All-Inclusive Rent
 Your rent is all you pay. Water, electricity and parking are provided at no extra charge, and you won't have to worry about activation, utility deposits or transfers. 
