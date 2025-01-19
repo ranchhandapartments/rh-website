@@ -1,5 +1,5 @@
 ---
-title: "Ranch Hand Apartments"
+title: "Home"
 menu:
   main:
     weight: 1
