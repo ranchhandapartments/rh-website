@@ -28,15 +28,15 @@ cover_dimming_class = "bg-black-60"
 [params.ananke.social.share]
 networks = ["email", "facebook", "bluesky", "linkedin"]
 
-[params.ananke.social.follow]
-networks = ["facebook", "bluesky", "linkedin"]
+# [params.ananke.social.follow]
+# networks = ["facebook", "bluesky", "linkedin"]
+# #
+# [params.ananke.social.facebook]
+# username = "patrick.kollitsch"
+# profilelink = "https://www.facebook.com/patrick.kollitsch"
 #
-[params.ananke.social.facebook]
-username = "patrick.kollitsch"
-profilelink = "https://www.facebook.com/patrick.kollitsch"
-
-[params.ananke.social.linkedin]
-username = "patrickkollitsch"
-
-[params.ananke.social.bluesky]
-username = "kollitsch.dev"
+# [params.ananke.social.linkedin]
+# username = "patrickkollitsch"
+#
+# [params.ananke.social.bluesky]
+# username = "kollitsch.dev"
