@@ -4,6 +4,7 @@ languageCode = 'en-us'
 enableRobotsTXT = true
 theme = 'ananke'
 sectionPagesMenu = "main"
+copyright = 'Ranch Hand Apartments'
 # canonifyURLs = true
 # [services.googleAnalytics]
 # id = ''
